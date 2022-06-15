@@ -10,6 +10,10 @@ sap.ui.define([
         return Controller.extend("zgittest2.controller.View1", {
             onInit: function () {
 
+            },
+
+            newCodeInMain: function () {
+//new code in main
             }
         });
     });
