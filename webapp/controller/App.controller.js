@@ -10,7 +10,7 @@ sap.ui.define(
         },
 
         newfunc() {
-            //new comment
+            
         }
       });
     }
