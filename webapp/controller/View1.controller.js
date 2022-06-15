@@ -13,7 +13,7 @@ sap.ui.define([
             },
 
             newCodeInMain: function () {
-//new code in main - changed by main
+//new code in main - changed by defect branch
             }
         });
     });
