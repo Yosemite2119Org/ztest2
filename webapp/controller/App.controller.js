@@ -7,10 +7,6 @@ sap.ui.define(
   
       return BaseController.extend("zgittest2.controller.controller.App", {
         onInit() {
-        },
-
-        newfunc() {
-            
         }
       });
     }
